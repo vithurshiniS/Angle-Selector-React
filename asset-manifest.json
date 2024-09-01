@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Angle-Selector-React/static/css/main.f248df4c.css",
+    "main.js": "/Angle-Selector-React/static/js/main.d85fde66.js",
+    "index.html": "/Angle-Selector-React/index.html",
+    "main.f248df4c.css.map": "/Angle-Selector-React/static/css/main.f248df4c.css.map",
+    "main.d85fde66.js.map": "/Angle-Selector-React/static/js/main.d85fde66.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f248df4c.css",
+    "static/js/main.d85fde66.js"
+  ]
+}
